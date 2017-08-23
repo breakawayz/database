@@ -10,5 +10,9 @@ influxd config > default.conf
 
 [https://docs.influxdata.com/influxdb/v1.2/introduction/getting\_started/](https://docs.influxdata.com/influxdb/v1.2/introduction/getting_started/)
 
-http://www.echojb.com/go/2017/05/23/398209.html
+[http://www.echojb.com/go/2017/05/23/398209.html](http://www.echojb.com/go/2017/05/23/398209.html)
+
+
+
+https://collectd.org/download.shtml
 
