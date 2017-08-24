@@ -4,7 +4,7 @@
 
 ```
 influxd config > default.conf
-
+./influxd -config /home/software/influxdb/etc/influxdb/influxdb.conf
 influx -precision rfc3339
 auth-file = "/etc/collectd/auth_file"
 
@@ -12,7 +12,7 @@ auth-file = "/etc/collectd/auth_file"
  # https://github.com/collectd/collectd/blob/master/src/types.db
  #types.db可从上述地址下载到此路径
  typesdb = "/usr/share/collectd/types.db"
- 
+
  show measurements
 ```
 
