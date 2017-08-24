@@ -28,3 +28,7 @@ auth-file = "/etc/collectd/auth_file"
 
 [https://doc.yonyoucloud.com/doc/logstash-best-practice-cn/input/collectd.html](https://doc.yonyoucloud.com/doc/logstash-best-practice-cn/input/collectd.html).
 
+
+
+https://grafana.com/grafana/download
+
