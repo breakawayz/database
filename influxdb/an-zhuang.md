@@ -6,7 +6,7 @@
 influxd config > default.conf
 
 influx -precision rfc3339
- auth-file = "/etc/collectd/auth_file"
+auth-file = "/etc/collectd/auth_file"
 ```
 
 [https://portal.influxdata.com/downloads](https://portal.influxdata.com/downloads)
