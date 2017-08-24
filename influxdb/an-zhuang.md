@@ -12,6 +12,8 @@ auth-file = "/etc/collectd/auth_file"
  # https://github.com/collectd/collectd/blob/master/src/types.db
  #types.db可从上述地址下载到此路径
  typesdb = "/usr/share/collectd/types.db"
+ 
+ show measurements
 ```
 
 [https://portal.influxdata.com/downloads](https://portal.influxdata.com/downloads)
