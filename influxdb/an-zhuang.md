@@ -12,7 +12,6 @@ auth-file = "/etc/collectd/auth_file"
  # https://github.com/collectd/collectd/blob/master/src/types.db
  #types.db可从上述地址下载到此路径
  typesdb = "/usr/share/collectd/types.db"
-
 ```
 
 [https://portal.influxdata.com/downloads](https://portal.influxdata.com/downloads)
@@ -22,4 +21,10 @@ auth-file = "/etc/collectd/auth_file"
 [http://www.echojb.com/go/2017/05/23/398209.html](http://www.echojb.com/go/2017/05/23/398209.html)
 
 [https://collectd.org/download.shtml](https://collectd.org/download.shtml)
+
+
+
+
+
+https://doc.yonyoucloud.com/doc/logstash-best-practice-cn/input/collectd.html
 
