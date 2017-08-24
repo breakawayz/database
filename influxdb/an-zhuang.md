@@ -4,6 +4,8 @@
 
 ```
 influxd config > default.conf
+
+influx -precision rfc3339
 ```
 
 [https://portal.influxdata.com/downloads](https://portal.influxdata.com/downloads)
@@ -12,7 +14,5 @@ influxd config > default.conf
 
 [http://www.echojb.com/go/2017/05/23/398209.html](http://www.echojb.com/go/2017/05/23/398209.html)
 
-
-
-https://collectd.org/download.shtml
+[https://collectd.org/download.shtml](https://collectd.org/download.shtml)
 
