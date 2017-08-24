@@ -22,9 +22,7 @@ auth-file = "/etc/collectd/auth_file"
 
 [https://collectd.org/download.shtml](https://collectd.org/download.shtml)
 
+源码安装
 
-
-
-
-https://doc.yonyoucloud.com/doc/logstash-best-practice-cn/input/collectd.html
+[https://doc.yonyoucloud.com/doc/logstash-best-practice-cn/input/collectd.html](https://doc.yonyoucloud.com/doc/logstash-best-practice-cn/input/collectd.html).
 
