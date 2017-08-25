@@ -7,4 +7,5 @@
     * [安装](influxdb/an-zhuang.md)
   * [james](james.md)
     * [启动](qi-dong.md)
+  * [netty](netty.md)
 
