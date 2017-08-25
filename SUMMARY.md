@@ -5,6 +5,6 @@
     * [咨询锁](postgresql/zi-xun-suo.md)
   * [InfluxDB](influxdb.md)
     * [安装](influxdb/an-zhuang.md)
-  * james
+  * [james](james.md)
     * [启动](qi-dong.md)
 
