@@ -72,5 +72,8 @@ sysctl -p
 
 安装命令：
 
-bin/elasticsearch-plugin install file：///home/yutao/下载/x-pack-5.2.2.zip
+bin/elasticsearch-plugin install file：///home/yutao/下载/x-pack-5.2.2.zip  
+四、xpack
+
+_xpack_.security.enabled: false
 
