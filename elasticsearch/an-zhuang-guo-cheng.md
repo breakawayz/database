@@ -46,7 +46,7 @@ vi /etc/security/limits.d/90-nproc.conf
 
 \* soft nproc 2048
 
-max virtual memory areas vm.max\_map\_count \[65530\] likely too low, increase to at least \[262144\]
+3、max virtual memory areas vm.max\_map\_count \[65530\] likely too low, increase to at least \[262144\]
 
 原因：最大虚拟内存太小
 
