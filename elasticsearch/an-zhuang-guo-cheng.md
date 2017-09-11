@@ -30,7 +30,7 @@ max file descriptors \[4096\] for elasticsearch process likely too low, increase
 
 \* hard nproc 4096
 
-max number of threads \[1024\] for user \[es\] likely too low, increase to at least \[2048\]
+2、max number of threads \[1024\] for user \[es\] likely too low, increase to at least \[2048\]
 
 原因：无法创建本地线程问题,用户最大可创建线程数太小
 
