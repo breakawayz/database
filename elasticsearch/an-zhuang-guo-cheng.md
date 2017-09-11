@@ -64,3 +64,11 @@ sysctl -p
 
 然后重新启动elasticsearch，即可启动成功。
 
+
+
+三、安装组件
+
+包地址：Manually download the X-Pack zip file:
+
+[https://artifacts.elastic.co/downloads/packs/x-pack/x-pack-5.2.2.zip](https://artifacts.elastic.co/downloads/packs/x-pack/x-pack-5.2.2.zip)
+
