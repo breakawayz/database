@@ -16,7 +16,7 @@
 
 三错误处理：
 
-ERROR: bootstrap checks failed
+1、ERROR: bootstrap checks failed
 
 max file descriptors \[4096\] for elasticsearch process likely too low, increase to at least \[65536\]
 
@@ -52,32 +52,15 @@ max virtual memory areas vm.max\_map\_count \[65530\] likely too low, increase t
 
 解决方案：切换到root用户下，修改配置文件sysctl.conf
 
-
-
 vi /etc/sysctl.conf
-
-  
-
 
 添加下面配置：
 
-  
-
-
 vm.max\_map\_count=655360
-
-  
-
 
 并执行命令：
 
-  
-
-
 sysctl -p
-
-  
-
 
 然后重新启动elasticsearch，即可启动成功。
 
