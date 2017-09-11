@@ -30,8 +30,6 @@ max file descriptors \[4096\] for elasticsearch process likely too low, increase
 
 \* hard nproc 4096
 
-
-
 max number of threads \[1024\] for user \[es\] likely too low, increase to at least \[2048\]
 
 原因：无法创建本地线程问题,用户最大可创建线程数太小
@@ -48,13 +46,38 @@ vi /etc/security/limits.d/90-nproc.conf
 
 \* soft nproc 2048
 
-
-
-
-
 max virtual memory areas vm.max\_map\_count \[65530\] likely too low, increase to at least \[262144\]
 
 原因：最大虚拟内存太小
 
 解决方案：切换到root用户下，修改配置文件sysctl.conf
+
+
+
+vi /etc/sysctl.conf
+
+  
+
+
+添加下面配置：
+
+  
+
+
+vm.max\_map\_count=655360
+
+  
+
+
+并执行命令：
+
+  
+
+
+sysctl -p
+
+  
+
+
+然后重新启动elasticsearch，即可启动成功。
 
