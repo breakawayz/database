@@ -68,7 +68,7 @@ sysctl -p
 
 包地址：Manually download the X-Pack zip file:
 
-[https://artifacts.elastic.co/downloads/packs/x-pack/x-pack-5.2.2.zip](https://artifacts.elastic.co/downloads/packs/x-pack/x-pack-5.2.2.zip)
+[https://artifacts.elastic.co/downloads/packs/x-pack/x-pack-5.5.2.zip](https://artifacts.elastic.co/downloads/packs/x-pack/x-pack-5.2.2.zip)
 
 安装命令：
 
