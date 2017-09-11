@@ -22,8 +22,7 @@ max file descriptors \[4096\] for elasticsearch process likely too low, increase
 
 修改vi /etc/security/limits.conf
 
-  
-\*  soft nofile 65536
+\* soft nofile 65536
 
 \* hard nofile 131072
 
