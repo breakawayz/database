@@ -14,5 +14,20 @@
 # 默认的就好
 ```
 
+三错误处理：
 
+ERROR: bootstrap checks failed
+
+max file descriptors \[4096\] for elasticsearch process likely too low, increase to at least \[65536\]
+
+修改vi /etc/security/limits.conf
+
+  
+\*  soft nofile 65536
+
+\* hard nofile 131072
+
+\* soft nproc 2048
+
+\* hard nproc 4096
 
