@@ -1,10 +1,8 @@
 一、下载
 
-
-
 二、修改参数
 
-`config/elasticsearch.yml`
+修改配置文件：`config/elasticsearch.yml`
 
 ```
 # 修改一下ES的监听地址，这样别的机器也可以访问
@@ -15,8 +13,6 @@
 ```
 # 默认的就好
 ```
-
-
 
 
 
