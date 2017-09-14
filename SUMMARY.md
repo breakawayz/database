@@ -7,6 +7,7 @@
     * [安装](influxdb/an-zhuang.md)
   * [james](james.md)
     * [启动](qi-dong.md)
+    * [mailet](mailet.md)
   * [mysql](mysql.md)
   * [netty](netty.md)
   * [elasticsearch](elasticsearch.md)
