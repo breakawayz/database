@@ -14,4 +14,6 @@
     * [安装过程](elasticsearch/an-zhuang-guo-cheng.md)
   * [日志系统的建设](ri-zhi-xi-tong-de-jian-she.md)
   * [kafka安装](kafkaan-zhuang.md)
+  * [redis](redis.md)
+    * redis安装遇到的问题
 
