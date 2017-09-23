@@ -15,5 +15,5 @@
   * [日志系统的建设](ri-zhi-xi-tong-de-jian-she.md)
   * [kafka安装](kafkaan-zhuang.md)
   * [redis](redis.md)
-    * redis安装遇到的问题
+    * [redis安装遇到的问题](redis/redisan-zhuang-yu-dao-de-wen-ti.md)
 
