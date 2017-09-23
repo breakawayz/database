@@ -16,5 +16,5 @@
   * [kafka安装](kafkaan-zhuang.md)
   * [redis](redis.md)
     * [redis安装遇到的问题](redis/redisan-zhuang-yu-dao-de-wen-ti.md)
-    * redis安装
+    * [redis安装](redis/redisan-zhuang.md)
 
